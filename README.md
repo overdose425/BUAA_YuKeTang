@@ -22,7 +22,7 @@
 
 1. 登录 buaa 雨课堂[北京航空航天大学研究生院 (yuketang.cn)](https://buaa.yuketang.cn/pro/portal/home/)
 2. 查找名为`csrftoken`和`sessionid`的 cookies, (其实也可以找到`school_id`)
-   ![](https://raw.githubusercontent.com/overdose425/ImgStg/main/2022/10/07-17-14-40-2022-10-07-17-14-38-image.png)
+![](https://raw.githubusercontent.com/overdose425/ImgStg/main/2022/10/07-18-08-42-2022-10-07-18-08-36-0ef37d6a749ba1e1725e779e379ec1b.png)
 3. 更改`videoHelper.py`中 12 和 13 行对应变量值为上述值
 4. 运行`videoHelper.py`
 
